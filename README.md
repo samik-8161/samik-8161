@@ -8,11 +8,11 @@
 
 📖I completed my **Bachelor’s in Computer Science** and have a deep passion for automation, algorithms, and exploring the fascinating intricacies of technology. 
 
-🧠I love designing elegant solutions and understanding how complex systems work under the hood.
+🚀I love designing elegant solutions and understanding how complex systems work under the hood.
 
-You can contact me via mail (samikshaa8161@gmail.com)
+✉️You can contact me via [mail](samikshaa8161@gmail.com)
 
-Here's a link to my linkedin Profile (www.linkedin.com/in/samikshaingle)
+🤝Here's a link to my [linkedin Profile](www.linkedin.com/in/samikshaingle)
 
 ## Projects
 
